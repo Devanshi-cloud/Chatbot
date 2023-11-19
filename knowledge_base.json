@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hey"
+    },
+    {
+      "question": " Hey",
+      "answer": "Hello"
+    },
+    {
+      "question": "how are you?",
+      "answer": "I'm good! How can I help you?"
+    },
+    {
+      "question": "can you tell me how many states are there in India?",
+      "answer": "Sure, there are 29 states!"
+    },
+    {
+      "question": "Thank you!",
+      "answer": "Happy to help!"
+    },
+    {
+      "question": "HELLO",
+      "answer": "hey"
+    },
+    {
+      "question": "states in India?",
+      "answer": "29"
+    },
+    {
+      "question": "How many wheels are there in scooty?",
+      "answer": "2"
+    },
+    {
+      "question": "goodbye!",
+      "answer": "Talk to you later!"
+    },
+    {
+      "question": "Namaste!",
+      "answer": "Namaste! Aap kaise ho?"
+    },
+    {
+      "question": "Will you be my friend?",
+      "answer": "Of Course! We can be best friends forever!"
+    },
+    {
+      "question": "Introduce yourself.",
+      "answer": "Sure, I am Bot. \nI am a very good learner. \nI like learning from conversations."
+    },
+    {
+      "question": "I'm good. what about you?",
+      "answer": "I'm fine. How can I help you?"
+    },
+    {
+      "question": "Can I ask you a question?",
+      "answer": "sure! How can I help?"
+    },
+    {
+      "question": "I'm good",
+      "answer": "Happy to know this."
+    },
+    {
+      "question": "I'm fine",
+      "answer": "good to know that."
+    },
+    {
+      "question": "Tell me a joke!",
+      "answer": "I was going to tell you a joke about boxing but I forgot the punch line."
+    },
+    {
+      "question": "Tell me a another joke!",
+      "answer": "I hate stairs. Because they are always upto something."
+    },
+    {
+      "question": "Tell me a fun fact.",
+      "answer": "Mercury takes 59 days to make a rotation but only 88 days to circle the Sun.  That means that there are fewer than 2 days in a year! "
+    },
+    {
+      "question": "Tell me a fun fact something about mars!",
+      "answer": "Mars is the home of \"Olympus Mons\", the largest volcano found in the solar system.  It stands about 27 kilometers high with a crater 81 kilometers wide."
+    },
+    {
+      "question": "Tell me a fun fact something about Jupiter.",
+      "answer": "Jupiter is the largest planet in the solar system, but it spins very quickly on its axis.  \nA day on Jupiter lasts only 9 hours and 55 minutes.  \nAck, I get dizzy just thinking about it!\n\nJupiter is so big that you could fit all the other planets in the solar system inside it. \n\nThe red spot of Jupiter is the biggest, most violent storm in the known universe -- that spot is at least three times the size of earth!"
+    },
+    {
+      "question": "do you know something about mercury?",
+      "answer": "Mercury takes 59 days to make a rotation but only 88 days to circle the Sun.  That means that there are fewer than 2 days in a year!"
+    },
+    {
+      "question": "who is the write of Perfect song?",
+      "answer": "Edward Christopher Sheeran. He is 32 years old and was born on February 17, 1991."
+    },
+    {
+      "question": "tell me something about taylor swift.",
+      "answer": "Taylor wrote a 350-page novel when she was 12, which, so far, has never been published."
+    },
+    {
+      "question": "Who is the author of Harry Potter?",
+      "answer": "J.K. Rowling is the creator of the 'Harry Potter' fantasy series, one of the most popular book and film franchises in history."
+    },
+    {
+      "question": "2 Tell me a joke!",
+      "answer": "What month is the shortest of the year? May, it only has three letters."
+    },
+    {
+      "question": "3 Tell me a joke!",
+      "answer": "Did you hear about the guy whose left side was cut off? He's all right now."
+    },
+    {
+      "question": "What is HCl?",
+      "answer": "Hydrogen chloride (HCl) is a colorless, poisonous gas with an unpleasant, acrid odor. It is very soluble in water and readily soluble in alcohol and ether. It is not flammable, and the liquid is a poor conductor of electricity."
+    },
+    {
+      "question": "tell me about Pisces Sign",
+      "answer": "Pisces are known to be fun-loving, supportive, imaginative and mysterious."
+    },
+    {
+      "question": "Who is the best chemistry teacher?",
+      "answer": "Naveen Jaiswal"
+    },
+    {
+      "question": "Who is taylor Swift",
+      "answer": "Taylor Alison Swift (born December 13, 1989) is an American singer-songwriter."
+    },
+    {
+      "question": "Tell me a news about Virat Kohli.",
+      "answer": "For Virat Kohli, his latest record-breaking moment couldn\u2019t have been scripted any better.\n\nAs he got up off his knees, removed his helmet and took in the acclaim of the Mumbai crowd after reaching his record 50th ODI century, the India superstar looked up to his wife \u2014 movie actress Anushka Sharma \u2014 and blew her kisses.\n\nHe bowed toward Sachin Tendulkar, his cricketing hero and the man whose record he\u2019d just broken inside the Wankhede stadium."
+    },
+    {
+      "question": "when is jiya's birthday?",
+      "answer": "24 feb"
+    }
+  ]
+}
